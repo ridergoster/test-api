@@ -1,0 +1,19 @@
+[
+  {
+    "name":"Sartre",
+    "prenom":"Paul",
+    "age": 18
+  },{
+    "name":"Chedid",
+    "prenom":"Mathieu",
+    "age": 20
+  },{
+    "name":"Farrel",
+    "prenom":"Colin",
+    "age": 18
+  },{
+    "name":"Couqueteau",
+    "prenom":"Jean",
+    "age": 18
+  }
+]

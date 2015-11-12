@@ -1,0 +1,9 @@
+[
+  {
+    "name":"SFII",
+    "console":"SNES"
+  },{
+    "name":"Fallout 4",
+    "console":["PS4","XBOXONE"]
+  }
+]
